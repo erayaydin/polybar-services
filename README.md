@@ -3,6 +3,12 @@ Services Information and Management on Polybar
 
 This scripts add "icon" and "number"(services count) on polybar. With mouse clicking, you can **start**, **stop** and **restart** services with `dmenu`.
 
+![Preview](https://raw.githubusercontent.com/erayaydin/polybar-services/master/assets/polybar.png)
+
+![OnClick1](https://raw.githubusercontent.com/erayaydin/polybar-services/master/assets/dmenu1.jpg)
+
+![OnClick2](https://raw.githubusercontent.com/erayaydin/polybar-services/master/assets/dmenu2.jpg)
+
 ## Requirements
 
 - polybar, of course.
