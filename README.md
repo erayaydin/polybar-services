@@ -28,6 +28,6 @@ Here we go, remember to restart polybar's config.
 
 ## Todo
 
-[ ] Use script file as `exec`. So no more long `exec` line on `polybar`.
-[ ] Show service status on `dmenu`
-[ ] Add support for other `menu` packages.
+- [ ] Use script file as `exec`. So no more long `exec` line on `polybar`.
+- [ ] Show service status on `dmenu`
+- [ ] Add support for other `menu` packages.
